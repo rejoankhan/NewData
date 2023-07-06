@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164866259721",
+    "project_id": "newdata-df159",
+    "storage_bucket": "newdata-df159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164866259721:android:b88cb143c45624391831d8",
+        "android_client_info": {
+          "package_name": "com.android.newdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164866259721-0rke4uftk9smaffjm6llsqrivn52thkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEeKoNixtBjEw8zSlXirjKsMU4CwIGIP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164866259721-0rke4uftk9smaffjm6llsqrivn52thkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
